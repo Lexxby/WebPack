@@ -1,0 +1,12 @@
+body {
+  background: gray;
+}
+h1 {
+  text-align: center;
+  color: #fff;
+}
+.firstImage {
+  width: 30%;
+  display: block;
+  margin: 0 auto;
+}
